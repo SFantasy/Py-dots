@@ -1,10 +1,7 @@
-pyAnalyzer
+py_practice
 ==========
 
-An simple lexical analyzer for Python programming language which is written in Python.
+author: forever.fantasy27@gmail.com
 
-Later this repo may include syntax parser.
+This REPO contains several practice of mine.
 
-## TODO
-* Error Handling
-* More features should be included
