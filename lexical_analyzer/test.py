@@ -1,4 +1,3 @@
-
 a = 2
 b = 2
 c = a + b
@@ -9,4 +8,3 @@ elif a < b:
     print "b is larger."
 else:
     print "they are equal."
-

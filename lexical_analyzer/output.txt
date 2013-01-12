@@ -1,0 +1,29 @@
+< a, varName >
+< =, operator >
+< 2, number >
+< b, varName >
+< =, operator >
+< 2, number >
+< c, varName >
+< =, operator >
+< a, varName >
+< +, operator >
+< b, varName >
+< if, keywords >
+< a, varName >
+< >, operator >
+< b, varName >
+< b, number >
+< print, keywords >
+< "a is larger.", string >
+< elif, keywords >
+< a, varName >
+< <, operator >
+< b, varName >
+< b, number >
+< print, keywords >
+< "b is larger.", string >
+< else, keywords >
+< else, number >
+< print, keywords >
+< "they are equal.", string >
