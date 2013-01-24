@@ -1,9 +1,7 @@
-py_practice
+PyTools
 ==========
 
-author: forever.fantasy27@gmail.com
-
-This REPO contains several practice of mine.
+This REPO contains several practical files.
 
 ### TIP
 * Lexical Anaylzer should contains ERROR Handling.
